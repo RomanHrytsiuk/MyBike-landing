@@ -19,4 +19,4 @@ Tablet 744px
 DEsktop 1260px
 
 [DEMO LINK](https://romanhrytsiuk.github.io/MyBike-landing/) /
-[MyBike Layout](https://github.com/RomanHrytsiuk/MyBike-landing)
+[MyBike landing](https://github.com/RomanHrytsiuk/MyBike-landing)
