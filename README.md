@@ -13,7 +13,9 @@ BEM-methodology
 Landing page has the responsive layout for:
 
 Mobile (> 320px)
+
 Tablet 744px
+
 DEsktop 1260px
 
 [DEMO LINK](https://romanhrytsiuk.github.io/MyBike-landing/) /
